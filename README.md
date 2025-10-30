@@ -31,10 +31,10 @@
 ## Qualification  
 | 취득일 | 자격증 / 면허명 | 시행처 |
 |--------|----------------|---------|
-| 2020.02.06 | PC정비사 2급 필기 | ICQA |
+| 2020.02.06 | PC정비사 2급  | ICQA |
 | 2020.11.06 | 제한무선통신사 | KCA |
 | 2020.12.19 | Microsoft Office Specialist (MOS) - Word, Excel, Access | YBM |
-| 2022.06.11 | 네트워크관리사 2급 필기 | ICQA |
+| 2022.06.11 | 네트워크관리사 2급  | ICQA |
 
 ## 📚 In Progress
 
